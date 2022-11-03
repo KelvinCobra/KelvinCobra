@@ -20,19 +20,13 @@
   💌 Entre em contato comigo! ⤵️
 </p>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=kelvinyyy2@gmail.com"/></a> <br>
-  kelvinyyy2@gmail.com <br>
-  
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelvin-cobra"/></a> <br>
-  https://www.linkedin.com/in/kelvin-cobra <br>
+<p> 
+<img src= "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<br>
+<a href= "https://wa.me/5519993288011">Meu Whatsapp</a>
+</p>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5519993288011"/></a> <br>
-  https://wa.me/5519993288011 <br>
-<a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_kelvincobra"/></a> <br>
-  https://www.instagram.com/_kelvincobra
-</p>   
+<p>
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <br>
+<a href= "https://www.linkedin.com/in/kelvin-cobra">Meu LinkedIn</a>
+</p>
